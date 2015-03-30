@@ -1,8 +1,4 @@
 /*
- * It is the opinion of the author of this code, Andrew Pietila, that the
- * following file is uncopyrightable. In the case that it is copyrightable, it
- * may be used under the following license.
- *
  * Copyright (c) 2015 Andrew Pietila
  *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
