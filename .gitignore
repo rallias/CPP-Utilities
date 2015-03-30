@@ -1,0 +1,5 @@
+build/
+.cproject
+elfdump
+.project
+.settings
